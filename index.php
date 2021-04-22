@@ -59,7 +59,7 @@ if ($row['dark_mode'] == 1) {
 
 		<div class="card card-outline card-primary">
 		<div class="card-header text-center">
-			<h1><i class="fab fa-get-pocket"></i> Project <b>SECURITY</b></h1>
+			<h1><i class="fab fa-get-pocket"></i> Seven <b>360</b></h1>
 		</div>
 		<div class="card">
            <div class="card-body text-white card-primary card-outline">
